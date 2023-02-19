@@ -32,7 +32,7 @@ const useTaskStore = () => {
         id: uuid(),
         list: ListTitle.DONE,
         content: "New Task",
-        color: "#ccf90",
+        color: "#ccff90",
       },
     ],
   });
